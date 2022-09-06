@@ -9,9 +9,9 @@ I am a Frontend Developer who majors in Javascript/React and minors in Python
 * 🌍  I'm based in California
 * ✉️  You can contact me at [kespinak@gmail.com](mailto:kespinak@gmail.com)
 * 🚀  I'm currently working on [MyPortolio](http://kespinak.com)
-* 🧠  I'm learning React apps
+* 🧠  I'm learning React 
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I love to learn and write clean code.
+* ⚡  I love to google and learn (I used profileme.dev to help create this markdown
 
 ### Skills
 
